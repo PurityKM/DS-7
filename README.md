@@ -1,1 +1,1 @@
-# DS-7
+# Data Science project 7
